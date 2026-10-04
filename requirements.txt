@@ -1,0 +1,4 @@
+vosk
+sounddevice
+gpiozero; platform_machine == "aarch64"
+lgpio; platform_machine == "aarch64"
