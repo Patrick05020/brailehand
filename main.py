@@ -52,7 +52,7 @@ class ConsoleBackend:
 class GPIOBackend:
     """Raspberry Pi: drives ring motors straight from GPIO (no Arduino).
     Use a transistor/driver per motor (or Grove vibration-motor modules)."""
-    def __init__(self, pins=(17, 27, 22)):
+    def __init__(self, pins=(26, 19, 13)):
         from gpiozero import OutputDevice  # imported here so Mac doesn't need it
         self.rings = [OutputDevice(p) for p in pins]
 
