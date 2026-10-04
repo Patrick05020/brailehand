@@ -95,7 +95,7 @@ def listen(model_path, text_q, device=None):
     import sounddevice as sd
     from vosk import KaldiRecognizer, Model
 
-    rate = 16000
+    rate = int(sd.query_devices(device, "input")["default_samplerate"])
     rec = KaldiRecognizer(Model(model_path), rate)
     audio_q = queue.Queue()
 
