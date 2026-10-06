@@ -1,4 +1,5 @@
-# SixSense <img width="49" height="55" alt="Screenshot 2026-10-06 at 2 55 11 PM" src="https://github.com/user-attachments/assets/f10822af-1e52-454b-afcb-0cace1ea9b87" />
+# SixSense <img width="84" height="142" alt="Screenshot_2026-10-06_at_2 56 47_PM-removebg-preview" src="https://github.com/user-attachments/assets/42826aef-3012-429f-b006-73a2e0ef8aad" />
+
 
 
 **Speech you can feel.** SixSense is a wearable glove that turns spoken words into braille based vibration patterns, so deafblind people can follow a conversation by touch.
