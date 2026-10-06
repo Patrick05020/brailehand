@@ -7,6 +7,8 @@
 
 A USB microphone picks up speech, offline speech recognition turns it into text, and a Raspberry Pi pulses three vibrating rings on a glove in the pattern of each letter. Everything runs on the device, with no internet needed and no audio leaving it.
 
+Try the Live Web Simulator Here ---> https://staging.d1037t7wpg0zfd.amplifyapp.com/#how
+
 > Built at **Hack Dearborn 5**, where it won **3rd place**.
 
 
