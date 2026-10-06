@@ -75,7 +75,7 @@ The GPIO numbers are set in `main.py` (`DEFAULT_PINS`) and can be changed from t
 | File | What it does |
 |---|---|
 | `main.py` | The pipeline: listening, braille encoding and motor output, with command line options |
-| `gui.py` | A click-to-start/stop window that shows what was heard and lights up the three rings corresponding to each finger|
+| `gui.py` | A click to start/stop window that shows what was heard and lights up the three rings corresponding to each finger|
 | `requirements.txt` | Python dependencies |
 
 ## Setup
