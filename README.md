@@ -35,7 +35,7 @@ With three more discs, the same code could show a whole cell at once.
 
 | Part | Notes |
 |---|---|
-| Raspberry Pi 4B+ | Runs everything; no Arduino needed |
+| Raspberry Pi 4B+ | Runs everything |
 | USB microphone | Any USB mic works |
 | 3 × vibration discs | Adafruit Vibrating Mini Motor Discs |
 | 3 × NPN transistors | e.g. 2N2222 / PN2222, one per disc |
