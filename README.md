@@ -1,4 +1,4 @@
-# SixSense <img width="84" height="142" alt="Screenshot_2026-10-06_at_2 56 47_PM-removebg-preview" src="https://github.com/user-attachments/assets/42826aef-3012-429f-b006-73a2e0ef8aad" />
+# SixSense <img width="84" height="120" alt="Screenshot_2026-10-06_at_2 56 47_PM-removebg-preview" src="https://github.com/user-attachments/assets/42826aef-3012-429f-b006-73a2e0ef8aad" />
 
 
 
