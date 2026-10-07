@@ -141,20 +141,20 @@ Timing (pulse length, gaps between letters and words) is set at the top of `main
 - **Offline speech recognition (Vosk):** works without wifi, and speech never leaves the device.
 - **Vibration discs, not buzzers:** piezo buzzers (provided by the MHL) are mostly sound and are hard to feel, so we used real vibration motors.
 - **Two pulses per letter:** keeps the hardware to three motors.
-- **Raspberry Pi GPIO directly:** decided against arduino (provided by MHL again) because the pi allowed for simpler wiring and more features
+- **Raspberry Pi GPIO directly:** decided against Arduino (provided by MHL again) because the pi allowed for simpler wiring and more features
 - **Swappable output backends:** the same code runs on a laptop for testing and on the Pi for real vibrations.
 
 ## Limitations and next steps
 
 - Not yet tested with deaf-blind users or braille readers. Timing and practicality need feedback from them.
-- Letters only: no numbers, or punctuational  braille yet.
+- Letters only: no numbers or punctuation  braille yet.
 - English speech model only.
-- Next: more discs for a full 6-dot cell, a battery and enclosure, and a more wearable build as well as more user friendly interface.
+- Next: more discs for a full 6-dot cell, a battery and enclosure, and a more wearable build, as well as a more user-friendly interface.
 
 ## Team
 
 - Ali Alfoaady, Software Lead
 - Rayan Sidiqqui, Hardware Lead
 - Patrick Mikha, Project Lead
-- Hassan El-Sabeh, Marketing specialist
+- Hassan El-Sabeh, Marketing Specialist
 
